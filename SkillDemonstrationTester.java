@@ -9,7 +9,7 @@ public class SkillDemonstrationTester {
 
     @Test
     public void skillDemonstrationTest() {
-        assertEquals(1, SkillDemonstration.subtract(4, 2)); //Incorrect Answer
+        assertEquals(1, SkillDemonstration.subtract(3, 2)); //Fixed Assertion
     }
 
     
